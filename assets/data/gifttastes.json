@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Elle Gift Taste Data",
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Elle": "This is a perfect gift. Thanks.../206 196 348 534/Thanks. That was nice.../248 279 286 287 288 334 335 336 337 338 396 399 787 917 372 428 -12/I guess the gesture was sweet.../219 225 202 209 tiakall.bass.seabass/You're kidding? This is an awful gift/330 305 283 221/Thanks/446 746 766 -7 -8 -9 -15 -16 item_alcohol/"
+            }
+        }
+    ]
+}

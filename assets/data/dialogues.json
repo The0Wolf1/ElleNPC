@@ -1,0 +1,97 @@
+{
+    "Changes": [
+        {
+            "LogName": "NPC Dialogue",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Elle",
+            "Entries": {
+                "Introduction": "Hi, I'm Elle. Nice to meet you... #$e#You recently moved into the farm outside the town, right?#$b#That run-down place will surely be in hands.$1#$e#",
+                "divorced": "If you continue to pester me, I'll have Robin build you a coffin.$6#$e#Alight, I'm calling her...$6#$b#...$6#$b#Gah, she isn't answering her phone.$6#$b#I'll have you one day...$6#$e#",
+                "secondchance_Girls": "Alright, maybe we can give it a second chance.$2#$e#",
+                "dumped_Girls": "What are you doing here?$6#$e#",
+                "breakUp": "That's it?$3#$e#",
+
+                "MovieInvite_Invited": "Really?$4#$b#I'd love to.$1#$b#Meet you at the cinema.#$e#",
+                "DumpsterDiveComment": "Are you taking food tips from Linus now?$2#$e#",
+                "SpouseStardrop": "I wanted to give you this.$b#Cause I love you and everything.$1#$e#",
+                "FlowerDance_Accept_Spouse": "I accept.$b#For a second, I thought you were going to cheat on me by dancing with someone else.$1#$e#",
+                "FlowerDance_Accept": "You want to dance with me?#$4#$b#I accept.#$1#$e#",
+                "FlowerDance_Decline": "Why?$2#$e#",
+                "GreenRain": "The locals are terrified of the green rain.$b#I say 'What happens, happens'$1#$e#",
+                "GreenRain_2": "See? I told you it wasn't that bad.$1#$e#",
+                "AcceptGift_(O)StardropTea": "Stardrop Tea? For me?$4#$e#",
+
+                "Mon": "“I love the smell of the Valley in the morning. It reminds me of my parents’ old farm.#$b#Do you have a smell that brings you back to better times?#$e#", 
+                "Tue": "I found a beautiful flower this morning.#$b#I would show you, but I got so excited I ate it.$1#$e#",
+                "Wed": "I watched a bug fly into my window.#$b#It popped when it hit the glass.$1#$e#",
+                "Thu": "Does your butt ever get itchy?#$b#Sorry, that was a weird question.$2#$e#",
+                "Fri": "I once saved my brother from a pack of wolves.#$b# I wonder where those wolves are now.#$e#",
+                "Sat": "Sorry, today is my self-care day.#$b#Thanks for checking in though.$1#$e#",
+                "Sun": "Once my dad took our dog Gismo to the woods.#$b# I haven’t seen him since. I wonder where he is.#$e#",
+
+                "Mon2": "“I love the smell of the Valley in the morning. It reminds me of my parents’ old farm.#$b#Do you have a smell that brings you back to better times?#$e#", 
+                "Tue2": "I found a beautiful flower this morning.#$b#I would show you, but I got so excited I ate it.$1#$e#",
+                "Wed2": "I watched a bug fly into my window.#$b#It popped when it hit the glass.$1#$e#",
+                "Thu2": "Does your butt ever get itchy?$0#$b#Sorry, that was a weird question.$2#$e#",
+                "Fri2": "I once saved my brother from a pack of wolves.#$b# I wonder where those wolves are now.#$e#",
+                "Sat2": "Sorry, today is my self-care day.#$b#Thanks for checking in though.#$1#$e#",
+                "Sun2": "Once my dad took our dog Gismo to the woods.#$b# I haven’t seen him since. I wonder where he is.#$e#",
+
+                "Mon4": "I could swear I saw a rock formation that looked just like you.#$b#Guess I’m just going crazy, huh?$2#$e#", 
+                "Tue4": "“I’m glad you spoke to me when you moved in.#$b#Otherwise, I wouldn’t have had such a great friend.$1#$e#",
+                "Wed4": "I remember that I snuck onto your grandpa’s farm one time when I was visiting my grandma.#$b#Did your grandpa ever mention that?$0#e#",
+                "Thu4": "Lewis is really starting to get on my nerves.$5#$b#He demanded a crap ton of gold.$5#$b#I wonder what the money goes to.$2#$e#",
+                "Fri4": "Ugh, my writing is going terribly.$2#$b#And it doesn’t help that I rarely have time to even write.$2#$e#",
+                "Sat4": "Sorry, today is my self-care day.#$b#Do you ever take self-care days, @?#$e#",
+                "Sun4": "I wonder what Penny and Jas are doing.#$b#Oh, I don’t want to join them. I’m afraid I’ll disturb Jas and Vincent’s learning.$1#$e#",
+
+                "Mon6": "I could swear I saw a rock formation that looked just like you.#$b# Guess I’m just going crazy, huh?$2#$e#",
+                "Tue6": "“I’m glad you spoke to me when you moved in.#$b#Otherwise, I wouldn’t have had such a great friend.$1#$e#",
+                "Wed6": "I remember that I snuck onto your grandpa’s farm one time when I was visiting my grandma.#$b#Did your grandpa ever mention that?$0#e#",
+                "Thu6": "Lewis is really starting to get on my nerves.$5#$b#He demanded a crap ton of gold.$5#$b#I wonder what the money goes to.$2#$e#",
+                "Fri6": "Ugh, my writing is going terribly.$2#$b#And it doesn’t help that I rarely have time to even write.$2#$e#",
+                "Sat6": "Sorry, today is my self-care day.#$bDo you ever take self-care days, @?#$e#",
+                "Sun6": "I wonder what Penny and Jas are doing.#$b#Oh, I don’t want to join them. I’m afraid I’ll disturb Jas and Vincent’s learning.$1#$e#",
+
+
+                "Mon8": "People keep asking me if I want to join them for activities.#$b#But I always decline. Activities aren’t really a passion of mine.$1#$e#",
+                "Tue8": "Teenagers scare the living crap out of me.$3#$b#Oh!!$2#b#Sorry, I got carried away while singing.$1#$e#",
+                "Wed8": "If you ever wonder what type of music I like, it’s rock music.#$b#There is just something freeing about it, you know?$1#$e#",
+                "Thu8": "Did you know that I actually like watching this video-sharing platform called YouTube?#$b#My favorite youtubers are Nino Kito and Seanie Dew.$1#$e#",
+                "Fri8": "The thing I love about pizza is how you can cover it with whatever you please.#$b#It’s like your own little art piece.#$b#Though you get to eat it.$1#$e#",
+                "Sat8": "Joja will forever be a faceless corporation to me.$5#$b# So if you ever side with them, I will be mad.$5#$e#",
+                "Sun8": "I remember seeing a white bird when I was younger.#$b#I think about that every now and again.#$e#",
+
+                "Mon10": "I just had a thought…#$b#But it disappeared.$2#$e#",
+                "Tue10": "*humming*$3#$e#",
+                "Wed10": "Have you seen Pierre’s prices?!$5#b#Is there anyone in this town who doesn’t want to bankrupt a poor woman?$5#$e#",
+                "Thu10": "I remember when me and my brother would take impromptu motorcycle trips out to the Valley and enjoy the view.#$b#I miss him dearly$2#$e#",
+                "Fri10": "Some days, I just want to do something productive.#$b#This is not that day.$1#$e#",
+                "Sat10": "My self-care day is more important than what you have to say.#$b#Sorry, did I say that out loud?$2#$e#",
+                "Sun10": "Have you heard the new songs Sebastian, Sam and Abigail have been working on?#$b#Yeah, me neither.$1#$e#",   
+            
+
+                "spring_1": "Days are getting longer.#$b#The insects are getting progressively more annoying.#$b#Ah, just what spring should be.$1#$e#",
+                "summer_1": "Days are longer.#$b#The heat is boiling.#$b#The insects are annoying beyond comprehension.#$b#Ah, just what summer should be.$1#$e#",
+                "fall_1": "Days are getting shorter.#$b#The insects finally stop.#$b#Ah, just what fall should be.$1#$e#",
+                "winter_1": "Days are shorter.#$b#The cold is unbearable.#$b#You get snowed in easily.$5#$b#Ah, just what winter should be.$1#$e#",
+
+                "spring_12": "Have you ever been to an egg festival?#$b#I remember my brother eating all the eggs he found during the egg hunt.$1#$e#",
+                "spring_23": "Ready for the flower dance tomorrow?#$b#I honestly think it's stupid.$1#$e#",
+                "summer_10": "Can't wait to see the governor pretend to like the soup so Lewis' ego stays in check.$1#$e#",
+                "summer_27": "Summer is going.$2#$b#I don't really care#$e#",
+                "fall_15": "Why do we spend so much time and energy on a festival very few are going to even care about?$2#$e#",
+                "fall_26": "Time to get spooky.$1#$e#",
+                "winter_7": "Jas and Penny want me to go to the festival tomorrow.#$b#I don't want to go, but I'll do it for Jas.#$b#Silly little girl.$1#$e#",
+                "winter_24": "I hope my secret santa gives me something good.#$e#"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/rainy",
+            "Entries": {
+                "Elle": "I don't mind the rain. I think it's nice.#$e#"
+            }
+        }
+    ]
+}

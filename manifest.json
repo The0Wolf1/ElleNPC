@@ -1,0 +1,10 @@
+{
+    "Name": "Elle Victoria - Custom NPC",
+    "Author": "the0coder",
+    "Version": "1.0.0",
+    "Description": "Adds custom NPC (and bachelorette), Elle Victoria.",
+    "UniqueID": "the0coder.elle",
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }

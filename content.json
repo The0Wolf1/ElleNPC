@@ -1,0 +1,72 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "LogName": "Blank JSON load",
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Elle, Characters/schedules/Elle, Strings/schedules/Elle",
+            "FromFile": "assets/data/blank.json"
+        },
+        {
+            "LogName": "Elle exists",
+            "Action": "Include",
+            "FromFile": "assets/data/dispos.json"
+        },
+        {
+            "LogName": "Base Portraits",
+            "Action": "Load",
+            "Target": "Portraits/Elle",
+            "FromFile": "assets/images/portraits.png"
+        },
+        {
+            "LogName": "Base Portraits",
+            "Action": "Load",
+            "Target": "Characters/Elle",
+            "FromFile": "assets/images/spritesElle.png"
+        },
+        {
+            "LogName": "NPC Dialogue",
+            "Action": "Include",
+            "FromFile": "assets/data/dialogues.json"
+        },
+        {
+            "LogName": "NPC Schedule",
+            "Action": "Include",
+            "FromFile": "assets/data/schedule.json"
+        },
+        {
+            "LogName": "Gift Tastes",
+            "Action": "Include",
+            "FromFile": "assets/data/gifttastes.json"
+        },
+        {	
+			"LogName": "Flower Dance",
+			"Action": "EditData",
+			"Target": "Data/Festivals/spring24",
+			"TextOperations":
+   			[
+				{
+   				    "Operation": "Append",
+   				    "Target": ["Entries", "Set-Up_additionalCharacters"],
+   				    "Value": "Elle 5 32 right",
+   				    "Delimiter": "/"
+				},
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Elle 4 25 right",
+                    "Delimiter": "/"
+                }
+			]
+		},
+		{	
+			"LogName": "Flower Dance - Dialogue",
+			"Action": "EditData",
+			"Target": "Data/Festivals/spring24",
+			"Entries": 
+			{ 
+                "Elle": "Sad to see another spring go.#$e#Eh... I really don't care.#$e#"
+			}
+		}
+    ]
+}

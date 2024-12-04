@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Elle's Schedule",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Elle",
+            "Entries": {
+                "rain": "610 Town 24 62 2",
+                "spring": "700 BusStop 28 11 2/1000 Town 24 62 2/1400 Town 72 54 2/2000 Town 24 62 2"
+            }
+        }
+    ]
+}
